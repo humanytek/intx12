@@ -12,3 +12,8 @@
 	path = humanytek-team/acs_invoice_merge
 	url = git@github.com:humanytek-team/acs_invoice_merge.git
 	branch = 12.0
+
+[submodule "intralix/lgps"]
+	path = intralix/lgps
+	url = git@github.com:intralix/lgps.git
+	branch = v12
