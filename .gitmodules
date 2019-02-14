@@ -17,3 +17,8 @@
 	path = intralix/lgps
 	url = git@github.com:intralix/lgps.git
 	branch = v12
+
+[submodule "JayVora-SerpentCS/MassEditing"]
+	path = JayVora-SerpentCS/MassEditing
+	url = git@github.com:JayVora-SerpentCS/MassEditing.git
+	branch = 12.0
