@@ -13,3 +13,7 @@
 	path = intralix/lgps
 	url = git@github.com:intralix/lgps.git
 	branch = v12
+[submodule "mexico"]
+	path = mexico
+	url = https://git.vauxoo.com/vauxoo/mexico.git
+	branch = 12.0
