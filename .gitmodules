@@ -13,7 +13,3 @@
 	path = intralix/lgps
 	url = git@github.com:intralix/lgps.git
 	branch = v12
-[submodule "vendor-bills"]
-	path = vendor-bills
-	url = https://git.vauxoo.com/vauxoo/vendor-bills.git
-	branch = 12.0
